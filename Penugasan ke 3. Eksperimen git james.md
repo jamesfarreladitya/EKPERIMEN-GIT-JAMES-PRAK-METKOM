@@ -49,4 +49,5 @@ Terus bikin project-project lucu, terus belajar, dan jangan lupa tetap jadi diri
 ## Hal Yang Masih Bikin Aku Bingung PT2
 - Kenapa gak keluar foto nya???????, aku udh lakukan smuaaa benerrrrr kenaffah begini ya tuhan susah kali ngecoding, susah banget ya allah mau nangys aja😭😭😭😭😭😭😭
 - akhirnya bisaaaaa yeayyyyyyyy
+- jujurly aku bingung bgt sama praktikum ini, karena banyak temen pake vs code ato anaconda, tapi kok aku di github doanggg maaf agak pikmi tapi kek aku kalo pake vscode ato anakonda aku jadi bingung bgt
 
